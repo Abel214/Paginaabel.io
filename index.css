@@ -1,0 +1,19 @@
+body{
+    background-color: aqua;
+}
+
+h1{
+    font-size: 80px;
+    text-align: center;
+    font-size: x-large;
+    color:darkred;
+}
+h2{
+    text-align: center;
+}
+p{
+   font-size: 34px; 
+}
+img{
+    position: center;
+}
